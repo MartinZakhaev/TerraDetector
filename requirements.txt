@@ -1,0 +1,3 @@
+torch
+torchvision
+pip install torch-pruning
